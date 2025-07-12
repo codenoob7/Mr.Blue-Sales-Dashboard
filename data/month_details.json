@@ -1,0 +1,81 @@
+{
+    "Jan 2025": {
+        "Revenue": 64584.79,
+        "Total Orders": 92,
+        "Total Customers in Month": 56,
+        "Total Customers": 235,
+        "Weeks": {
+            "Week-1": 3669.0,
+            "Week-2": 12455.29,
+            "Week-3": 13139.25,
+            "Week-4": 24506.25,
+            "Week-5": 10815.0
+        },
+        "Days": {
+            "Monday": 11593.0,
+            "Tuesday": 8995.0,
+            "Wednesday": 10789.4,
+            "Thursday": 16560.89,
+            "Friday": 8823.25,
+            "Saturday": 7823.25
+        },
+        "New Customers": 28,
+        "Repeating Customers": 28,
+        "Repeating Cst from Last Month": 0,
+        "Ret.Rate wrt. Last Month": "0.00%",
+        "Overall Ret.Rate": "13.53%"
+    },
+    "Feb 2025": {
+        "Revenue": 92721.0,
+        "Total Orders": 119,
+        "Total Customers in Month": 60,
+        "Total Customers": 253,
+        "Weeks": {
+            "Week-1": 742.5,
+            "Week-2": 22182.25,
+            "Week-3": 21167.25,
+            "Week-4": 30824.0,
+            "Week-5": 17805.0
+        },
+        "Days": {
+            "Monday": 13356.0,
+            "Tuesday": 11910.25,
+            "Wednesday": 23327.0,
+            "Thursday": 19085.0,
+            "Friday": 10621.0,
+            "Saturday": 14421.75
+        },
+        "New Customers": 18,
+        "Repeating Customers": 42,
+        "Repeating Cst from Last Month": 25,
+        "Ret.Rate wrt. Last Month": "44.64%",
+        "Overall Ret.Rate": "17.87%"
+    },
+    "Mar 2025": {
+        "Revenue": 69643.95,
+        "Total Orders": 103,
+        "Total Customers in Month": 59,
+        "Total Customers": 273,
+        "Weeks": {
+            "Week-1": 4386.25,
+            "Week-2": 18301.0,
+            "Week-3": 6309.0,
+            "Week-4": 20761.5,
+            "Week-5": 19486.2,
+            "Week-6": 400.0
+        },
+        "Days": {
+            "Monday": 14205.0,
+            "Tuesday": 7492.0,
+            "Wednesday": 11538.2,
+            "Thursday": 10634.0,
+            "Friday": 13215.0,
+            "Saturday": 12559.75
+        },
+        "New Customers": 20,
+        "Repeating Customers": 39,
+        "Repeating Cst from Last Month": 30,
+        "Ret.Rate wrt. Last Month": "50.0%",
+        "Overall Ret.Rate": "15.42%"
+    }
+}
