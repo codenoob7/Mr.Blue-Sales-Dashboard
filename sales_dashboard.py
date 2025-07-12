@@ -1,5 +1,4 @@
 from streamlit import sidebar
-from streamlit_option_menu import option_menu
 import streamlit as st
 import altair as alt
 import pandas as pd
