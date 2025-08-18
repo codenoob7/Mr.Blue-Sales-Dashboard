@@ -43,6 +43,7 @@ st.markdown(
 #Get Details
 #--------Current Month-----------
 sales = data[selected_month]['Revenue']
+sales = round(sales,2)
 orders = data[selected_month]['Total Orders']
 cst = data[selected_month]['Total Customers']
 cst_in_month = data[selected_month]['Total Customers in Month']
@@ -54,6 +55,7 @@ repeating_cst_from_last_month = data[selected_month]['Repeating Cst from Last Mo
 
 #---------Past Month--------------
 past_sales = data[previous_month]['Revenue']
+past_sales = round(past_sales,2)
 past_orders = data[previous_month]['Total Orders']
 past_cst = data[previous_month]['Total Customers']
 past_cst_in_month = data[previous_month]['Total Customers in Month']
